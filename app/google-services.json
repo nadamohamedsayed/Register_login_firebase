@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "285485285054",
+    "firebase_url": "https://register-b726e-default-rtdb.firebaseio.com",
+    "project_id": "register-b726e",
+    "storage_bucket": "register-b726e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:285485285054:android:37956f1ee097b3521268ef",
+        "android_client_info": {
+          "package_name": "com.example.register_login_firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "285485285054-31cvp7heuo6ao2qgohtun4n66gnrr34k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDO-DwS6dF0ZgmlTXWfBOtMHoEfKmdygSk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "285485285054-31cvp7heuo6ao2qgohtun4n66gnrr34k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
